@@ -14,6 +14,17 @@ Route 53 offers an end-to-end DNS service!
 Route 53 → Domains → Registered Domains → Register Domain
 
 Domain Name: example \
-Extension: Each of these have different **annual** prices (ex: .com - $12; .net - $11; .io - $39; .click - $5; .movie - $306) \
-Check: see if example.com is available! If it's not available, view all the alternative suggested options below.
+Extension: Each of these have different annual prices (ex: .com - $12; .net - $11; .io - $39; .click - $5; .movie - $306) \
+Check: see if example.com is available! If it's not available, view all the alternative suggested options below. \
+Add to Cart \
+Continue
+
+Contact Information: \
+Registrant Contact: person that is aware that the domain is being registered, and can answer queries in that context \
+Technical Contact: person that can assist technically \
+Admin Contact: person who is aware of the admin side of things (billing & renewal)
+
+You can have the option selected \
+that the Registrant, Technical, and Admin Contacts are all the same, \
+and whether or not to hide some contact details (Privacy Protection).
 
