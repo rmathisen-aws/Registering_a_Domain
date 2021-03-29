@@ -28,3 +28,18 @@ You can have the option selected \
 that the Registrant, Technical, and Admin Contacts are all the same, \
 and whether or not to hide some contact details (Privacy Protection).
 
+Continue
+
+Enable/Disable Auto-Renewal of your Domain\
+Check box to agree to Terms and Conditions\
+Complete Order
+
+\
+Now, AWS is communicating with the .org registry (or whatever extension you chose). This organization is known as PIR (Public Interest Registry). \
+The first step is to get the example.org domain added to the zone file for .org (PIR controls this). \
+
+Route 53 → Domains → Pending Requests \
+Notice the status is "Domain registration in progress". We are waiting for this entry to be added to the .org zone file!
+
+
+
